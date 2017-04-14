@@ -13,7 +13,7 @@
       -(instancetype)initWithPickerHeight:(CGFloat)pickerHeight andDataSource:(NSArray *)dataSource margin:(CGFloat)margin itemCountForRow:(NSUInteger)itemCount withItemHeight:(CGFloat)itemHeight
       
       
-三: 可以通过初始化方法的 itemCountForRow 属性指定一行显示的cell数,已做自适应处理,保证显示正常美观.
+三: 可以通过初始化方法的 itemCountForRow 参数指定一行显示的cell数,已做自适应处理,保证显示正常美观.
 
 四: 可以通过暴露的属性设置控件的显示样式:
    
