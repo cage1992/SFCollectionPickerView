@@ -28,11 +28,14 @@
         
         
  五: 相关公共方法:
+ 
         1./**  显示处理  **/
         -(void)showingOn:(UIView *)superView;
         
         2. /** 移除处理  **/
         -(void)dismissed;
+        
+        
         
         
 ![img](https://github.com/cage1992/SFCollectionPickerView/blob/master/collectionPickerView.gif)
