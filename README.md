@@ -35,6 +35,5 @@
         -(void)dismissed;
         
         
-  ![image](https://github.com/cage1992/SFCollectionPickerView/collectionPickerView.gif)     
-
+![img](https://github.com/cage1992/SFCollectionPickerView/blob/master/collectionPickerView.gif)
         
